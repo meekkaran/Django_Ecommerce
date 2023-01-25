@@ -28,8 +28,9 @@ For Add to cart functionality and site cookis, I used Javascript.
 ![image](https://user-images.githubusercontent.com/60463223/211255131-34390abc-8669-46c2-b054-0584000ab7df.png)
 
 ## Deployment
-I Deployed the website to my custom Google Domain (https://meekkaran.com/)  using **Railway App** and **Cloudflare**
+I Deployed the website to my custom Domain (https://meekkaran.com/)  using **Railway App** and **Cloudflare**
 >I'm working on a blog about how i did the deployment.
 
 ## Guidance
-I definitely got help from a tutorial by Dennis Ivy on Youtube. 
+I definitely got help from a tutorial by Dennis Ivy on Youtube.
+
